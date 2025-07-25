@@ -1,3 +1,16 @@
+⚠️ PROJECT NO LONGER MAINTAINED
+
+This project is no longer actively maintained. The repository has been archived to preserve the code and documentation.
+While the code remains available for use and forking, please note that:
+
+- No new features will be added
+- Bug reports and pull requests will not be reviewed
+- No support will be provided
+
+If you're interested in maintaining this project, feel free to fork the repository. 
+Thank you to everyone who used and contributed to Alfrello
+
+
 ```
   █████╗ ██╗     ███████╗██████╗ ███████╗██╗     ██╗      ██████╗    ██████████╗ 
  ██╔══██╗██║     ██╔════╝██╔══██╗██╔════╝██║     ██║     ██╔═══██╗   ██╔═██╔═██║ 
